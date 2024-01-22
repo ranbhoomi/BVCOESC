@@ -1,0 +1,267 @@
+.bvcoe-sc-logo-white-icon3 {
+    width: 106px;
+    position: relative;
+    height: 101.1px;
+    object-fit: cover;
+}
+
+.about-the-council2,
+.contact-us2,
+.events2,
+.home2,
+.winners2 {
+    position: relative;
+    line-height: 20px;
+}
+
+.bvcoe-sc-logo-white-parent,
+.frame1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.frame1 a {
+    text-decoration: none;
+    color: white;
+}
+
+.frame1 {
+    width: 667px;
+    padding: var(--padding-22xl) 0;
+    box-sizing: border-box;
+    gap: var(--gap-51xl);
+}
+
+.bvcoe-sc-logo-white-parent {
+    position: absolute;
+    top: 37px;
+    left: calc(50% - 549px);
+    gap: 363px;
+}
+
+.footer-child {
+    position: absolute;
+    top: -0.5px;
+    left: -0.5px;
+    border-top: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 1201px;
+    height: 1px;
+}
+
+.arcticonsfacebook1,
+.arcticonsinstagram1,
+.arcticonstwitter1 {
+    width: 28px;
+    position: relative;
+    height: 28px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.arcticonsfacebook1,
+.arcticonsinstagram1 {
+    width: 26px;
+    height: 26px;
+}
+
+.arcticonstwitter-parent {
+    position: absolute;
+    top: 151px;
+    left: 1047px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: var(--gap-9xl);
+}
+
+.footer {
+    position: absolute;
+    top: 911px;
+    left: calc(50% - 590px);
+    width: 1200px;
+    height: 179px;
+}
+
+.frame-icon1,
+.frame-icon2,
+.frame-icon3 {
+    position: absolute;
+    top: 992px;
+    left: 73px;
+    width: 84.6px;
+    height: 84.6px;
+    overflow: hidden;
+}
+
+.frame-icon2,
+.frame-icon3 {
+    top: 830px;
+    left: 1330px;
+}
+
+.frame-icon3 {
+    top: 697px;
+    left: 45px;
+}
+
+.feel-the-pulse {
+    position: absolute;
+    top: 112px;
+    left: 436px;
+    line-height: 38.6px;
+    display: inline-block;
+    width: 788px;
+}
+
+.address,
+.blank-line,
+.email,
+.for-any-suggestionsqueries {
+    margin: 0;
+}
+
+.for-any-suggestionsqueries-container {
+    position: absolute;
+    top: 383px;
+    left: 436px;
+    line-height: 38.6px;
+    display: inline-block;
+    width: 817px;
+}
+
+.a-4-paschim-vihar,
+.bvcoescgmailcom,
+.in-front-of {
+    margin: 0;
+}
+
+.bvcoescgmailcom-a-4-paschim-container a {
+    text-decoration: none;
+    color: white;
+}
+
+.bvcoescgmailcom-a-4-paschim-container {
+    position: absolute;
+    top: 499px;
+    left: 574px;
+    line-height: 38.6px;
+    text-align: right;
+    display: inline-block;
+    width: 648px;
+    height: 115px;
+}
+
+.bvcoe-sc-logo-white-icon4 {
+    position: absolute;
+    top: 54px;
+    left: 43px;
+    width: 265.2px;
+    height: 486px;
+    object-fit: cover;
+}
+
+.contact-us4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: var(--font-size-17xl);
+    line-height: 50.96px;
+    text-transform: uppercase;
+}
+
+.contact-us3 {
+    position: absolute;
+    top: 254px;
+    left: 103.5px;
+    width: 1253px;
+    height: 614px;
+    font-size: var(--font-size-11xl);
+}
+
+.about1,
+.contact-us5,
+.events3,
+.home3,
+.winners3 {
+    width: 65px;
+    position: relative;
+    line-height: 100%;
+    text-transform: uppercase;
+    font-weight: 600;
+    display: inline-block;
+    height: 26px;
+    flex-shrink: 0;
+}
+
+.about1,
+.contact-us5,
+.events3,
+.winners3 {
+    width: 105px;
+}
+
+.contact-us5,
+.events3,
+.winners3 {
+    width: 137px;
+}
+
+.contact-us5,
+.winners3 {
+    width: 120px;
+}
+
+.contact-us5 {
+    width: 138px;
+}
+
+.menu-bar a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu-bar {
+    position: absolute;
+    top: 38px;
+    left: 509px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 57px;
+    cursor: pointer;
+}
+
+.bvcoe-sc-logo-white-icon5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 125px;
+    height: 116px;
+    object-fit: cover;
+}
+
+.header1 {
+    position: absolute;
+    top: 0;
+    left: 25px;
+    width: 1302px;
+    height: 116px;
+    text-align: right;
+    font-size: var(--font-size-xl);
+}
+
+.contact-page {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-gray-200);
+    height: 1110px;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-gray-100);
+    font-family: var(--font-inter);
+}
